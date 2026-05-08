@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "Jefred Bedoya <jefred03salazar@gmail.com>",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBedoyaSalazar/FundamentosNodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JBedoyaSalazar/FundamentosNodeJS/issues"
+  },
+  "homepage": "https://github.com/JBedoyaSalazar/FundamentosNodeJS#readme"
 }
