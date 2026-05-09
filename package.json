@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/JBedoyaSalazar/FundamentosNodeJS#readme",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
     "isnumber": "^1.0.0"
   }
 }
