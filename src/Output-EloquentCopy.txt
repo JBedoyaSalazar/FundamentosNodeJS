@@ -1,0 +1,13 @@
+JavaScript, the programming language that allows us to add programs to web pages, lies at the heart of almost every modern web application, from social media sites to browser-based games. Just about every device can run it, making it a great choice for writing universally useful code.
+
+The fourth edition of this classic textbook takes you on a journey through the language of the web, starting from its basic elements and building up to engaging, complete programs. The author’s personal experiences from years of maintaining popular open source projects enliven the text with practical insights and examples. 
+
+This edition of Eloquent JavaScript updates the book to describe the 2024 version of JavaScript, and shifts the attention given to some topics to better reflect current development practices.
+
+The text takes a practical approach to teaching, rooting theory in plenty of motivating examples. The first half of the book describes the fundamentals of the language, whereas the second half shows how to apply it in two programming environments: the web browser and Node.js. Five project chapters show how to build bigger programs, working through these projects in a piecemeal, conversational way. They include a pathfinding robot, a small programming language, a platform game, a pixel drawing program, and a simple dynamic website.
+
+Exercises provided at the end of most chapters will challenge you to creatively apply the concepts and techniques introduced. The book’s companion website provides an interactive environment for working on these exercises and playing with the example programs.
+
+Whether you’re looking to learn JavaScript or to deepen your programming skills, you’ll find this book full of stimulating material.
+
+Updated to ECMAScript 2024
